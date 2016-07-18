@@ -1,0 +1,12 @@
+<div>
+      <div>
+            <div style="padding-bottom: 10px;font-size: 33px;">Browser : </div>
+            <div style="padding-left: 20px;">
+                <label><input type="radio" name="browser" value="0" >Chrome</label>
+                <label><input type="radio" name="browser" value="1" checked>Firefox</label>
+                <label><input type="radio" name="browser" value="2">IE</label>
+            </div>
+        </div>
+        
+        d
+        sd
